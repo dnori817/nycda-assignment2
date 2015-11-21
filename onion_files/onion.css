@@ -1,0 +1,13 @@
+#headline {
+	color: #006400;
+
+}
+
+h1, h2 {
+	font-family: Georgia;
+	text-align: center;
+}
+
+p {
+	line-height: 19px;
+}
